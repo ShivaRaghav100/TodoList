@@ -11,12 +11,8 @@
 button{
     margin: 10px;
 }
-.row{
-    width: 700px;
-}
 .col{
-    width: 400px;
-    margin: 10px;
+    margin: 5px;
     border: 1px solid;
 }
 .listItemBlock{
